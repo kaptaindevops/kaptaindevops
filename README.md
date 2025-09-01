@@ -1,4 +1,3 @@
-[Portfolio Link](https://rohitaswani.github.io/devopsboy/)
 <h1 align="center">Hello!! 👋, I'm DevOps Boy</h1>
 <h3 align="center">I’m passionate DevOps Engineer from INDIA </h3>
 
@@ -8,15 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitaswani" alt="rohitaswani" /></a> </p>
 
-- 🔭 I’m currently working on [Docker](https://github.com/RohitAswani/Docker)
+- 🔭 I’m currently working on [Docker](https://github.com/kaptaindevops/Docker)
 
 - 🌱 I’m currently learning **Agile Methodologies, Scrum, Jira, JAVA, Git, GitHub, Linux, AWS, Docker, Terraform**
 
-- 👯 I’m looking to collaborate on [Open source Hotel Website](https://github.com/RohitAswani/Open_Source-Hotel_web)
+- 👯 I’m looking to collaborate on [Open source Hotel Website](https://github.com/kaptaindevops/Open_Source-Hotel_web)
 
-- 🤝 I’m looking for help with [Open source Website](https://github.com/RohitAswani/Open_source_collab-Website)
+- 🤝 I’m looking for help with [Open source Website](https://github.com/kaptaindevops/Open_source_collab-Website)
 
-- 👨‍💻 All of my projects are available at [https://rohitaswani.github.io/](https://github.com/RohitAswani)
+- 👨‍💻 All of my projects are available at [https://kaptaindevops.github.io/](https://github.com/kaptaindevops)
 
 - 📝 I regularly write articles on [https://devopsboy.medium.com/](https://devopsboy.medium.com)
 
