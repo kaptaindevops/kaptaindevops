@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **AWS, Docker and Terraform**
 
-- 📫 How to reach me **kaptaindevops.53@gmail.com**
+- 📫 How to reach me **rohitaswani27@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
